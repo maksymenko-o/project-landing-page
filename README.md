@@ -1,6 +1,6 @@
 # project-landing-page
 ***
-Это полностью адатпивный под все типы устройств макет сайта, что был сверстан по PSD [макету] (https://drive.google.com/file/d/1EjE-Tt_uuTy6XKGdx7kyRu4Vljy3FdLI/view?usp=sharing).
+Это полностью адатпивный под все типы устройств макет сайта, что был сверстан по PSD [макету](https://drive.google.com/file/d/1EjE-Tt_uuTy6XKGdx7kyRu4Vljy3FdLI/view?usp=sharing).
 ***
 **Секции**
 
